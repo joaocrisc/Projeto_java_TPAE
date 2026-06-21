@@ -1,0 +1,11 @@
+codigo;nome;email;cpf;telefone;endereco
+1;João Silva;joao.silva@example.com;123.456.789-00;11 99999-9999;Rua Exemplo, 123, São Paulo/SP
+2;Maria Souza;maria.souza@example.com;987.654.321-00;31 98888-1111;Av. Central, 456, Belo Horizonte/MG
+3;Carlos Oliveira;carlos.oliveira@example.com;456.789.123-10;21 97777-2222;Rua das Flores, 78, Rio de Janeiro/RJ
+4;Fernanda Lima;fernanda.lima@example.com;741.852.963-20;41 96666-3333;Rua Paraná, 890, Curitiba/PR
+5;Pedro Almeida;pedro.almeida@example.com;258.369.147-30;85 95555-4444;Av. Beira Mar, 1020, Fortaleza/CE
+6;Juliana Martins;juliana.martins@example.com;369.258.147-40;61 94444-5555;SQN 308, Brasília/DF
+7;Lucas Santos;lucas.santos@example.com;159.357.486-50;51 93333-6666;Rua da Praia, 55, Porto Alegre/RS
+8;Camila Rocha;camila.rocha@example.com;852.741.963-60;71 92222-7777;Av. Oceânica, 310, Salvador/BA
+9;Gabriel Mendes;gabriel.mendes@example.com;963.852.741-70;19 91111-8888;Rua Campinas, 150, Campinas/SP
+10;Larissa Barbosa;larissa.barbosa@example.com;147.258.369-80;32 90000-9999;Rua Tiradentes, 340, Juiz de Fora/MG

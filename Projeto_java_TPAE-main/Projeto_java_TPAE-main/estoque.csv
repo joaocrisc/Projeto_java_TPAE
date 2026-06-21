@@ -1,0 +1,12 @@
+codigo;tipoProduto;nome;custo;precoVenda;quantidade;descricao;dataValidade;ativo
+1001;1;Arroz;10.0;15.0;100;Arroz que vence em null;31/12/2026;true
+1002;1;Feijão Carioca;8.0;12.5;80;Feijão Carioca que vence em null;15/11/2026;true
+1003;1;Macarrão Espaguete;4.0;6.5;120;Macarrão Espaguete que vence em null;20/10/2026;true
+codigo;tipoProduto;nome;custo;precoVenda;quantidade;descricao;unidadeMedida;ingredientesAtivos;volume;ativo
+2001;2;Detergente;5.0;8.0;50;Detergente com volume de 0.0 null;ML;Tensoativos, fragrância, corante;500.0;true
+2002;2;Água Sanitária;6.0;9.5;40;Água Sanitária com volume de 0.0 null;L;Hipoclorito de sódio;1.0;true
+2003;2;Desinfetante;7.0;11.0;35;Desinfetante com volume de 0.0 null;L;Cloreto de benzalcônio;2.0;true
+codigo;tipoProduto;nome;custo;precoVenda;quantidade;descricao;marca;modelo;voltagem;garantiaMeses;ativo
+3001;3;Smartphone;500.0;800.0;20;Smartphone modelo null da marca null;Samsung;Galaxy A35;220;12;true
+3002;3;Notebook;2500.0;3400.0;10;Notebook modelo null da marca null;Dell;Inspiron 15;220;24;true
+3003;3;Fone Bluetooth;80.0;150.0;30;Fone Bluetooth modelo null da marca null;JBL;Tune 520BT;127;12;true

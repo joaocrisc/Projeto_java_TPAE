@@ -1,0 +1,8 @@
+Codigo;Valor;Descricao;Data;Categoria
+1;1000.0;Aluguel;01/01/2024;operacional
+2;500.0;Compra de mercadorias;02/01/2024;compras
+3;350.0;Conta de energia;05/01/2024;operacional
+4;180.0;Conta de água;05/01/2024;operacional
+5;750.0;Reposição de estoque;10/01/2024;compras
+6;420.0;Internet e telefone;12/01/2024;operacional
+7;900.0;Compra de eletrônicos;15/01/2024;compras
